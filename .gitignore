@@ -1,0 +1,25 @@
+# Local uploads
+uploads/*
+
+# Environment/secrets
+.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary test files
+test_connection_final.php
+test_db.php
+
+# Logs
+*.log
+
+# Local database dump
+food_fraud_db1.sql
+
+# AI/tool configuration
+.claude/
